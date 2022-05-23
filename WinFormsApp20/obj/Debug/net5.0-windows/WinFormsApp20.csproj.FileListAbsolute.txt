@@ -1,0 +1,36 @@
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.exe
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.deps.json
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.runtimeconfig.json
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.runtimeconfig.dev.json
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.dll
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\ref\WinFormsApp20.dll
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.pdb
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.csproj.AssemblyReference.cache
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.Form1.resources
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.csproj.GenerateResource.cache
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.AssemblyInfoInputs.cache
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.AssemblyInfo.cs
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.csproj.CoreCompileInputs.cache
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.dll
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\ref\WinFormsApp20.dll
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.pdb
+C:\Users\Berkay\source\repos\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.genruntimeconfig.cache
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.exe
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.deps.json
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.runtimeconfig.json
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.runtimeconfig.dev.json
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.dll
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\WinFormsApp20.pdb
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.csproj.AssemblyReference.cache
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.Form1.resources
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.csproj.GenerateResource.cache
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.AssemblyInfoInputs.cache
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.AssemblyInfo.cs
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.csproj.CoreCompileInputs.cache
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.dll
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.pdb
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\WinFormsApp20.genruntimeconfig.cache
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\obj\Debug\net5.0-windows\ref\WinFormsApp20.dll
+C:\Users\OĞUZ RAMAZAN\Desktop\WinFormsApp20\WinFormsApp20\bin\Debug\net5.0-windows\ref\WinFormsApp20.dll

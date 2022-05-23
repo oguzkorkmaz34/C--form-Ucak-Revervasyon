@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "REZERVASYON", "WinFormsApp20\REZERVASYON.csproj", "{A8ABDF9B-88D5-43B9-B777-49CA886EE8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8ABDF9B-88D5-43B9-B777-49CA886EE8DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8ABDF9B-88D5-43B9-B777-49CA886EE8DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {334BAB20-4C94-4BC2-99EE-7F5861393EC1}
+	EndGlobalSection
+EndGlobal
